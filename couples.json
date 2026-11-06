@@ -1,0 +1,550 @@
+[
+  {
+    "id": "c01",
+    "name": "춘향·이몽룡",
+    "region": "한국",
+    "work": "춘향전",
+    "kind": "고전소설",
+    "archetype": "신분 장벽을 넘는 신뢰와 재회",
+    "vector": {
+      "attraction": 85,
+      "security": 78,
+      "conflict": 60,
+      "autonomy": 65,
+      "expression": 75,
+      "growth": 80
+    },
+    "anchor_event": "이별과 암행어사 재회",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "춘향과 몽룡이 만나 정을 맺는다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "몽룡이 떠난 뒤 춘향이 변학도의 요구를 거절한다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "몽룡이 암행어사로 돌아와 춘향과 재회한다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "작품 내 사건",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "c02",
+    "name": "견우·직녀",
+    "region": "동아시아",
+    "work": "견우직녀 설화",
+    "kind": "설화",
+    "archetype": "거리와 기다림의 사랑",
+    "vector": {
+      "attraction": 88,
+      "security": 62,
+      "conflict": 38,
+      "autonomy": 75,
+      "expression": 70,
+      "growth": 60
+    },
+    "anchor_event": "은하수로 갈라지고 칠석에 만남",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "두 연인이 함께 지내다가 일을 소홀히 했다는 전승이 있다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "은하수를 사이에 두고 떨어져 지낸다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "칠석에 오작교를 통해 만난다는 이야기가 전해진다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "전승/판본 의존",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "c03",
+    "name": "온달·평강공주",
+    "region": "한국",
+    "work": "온달 설화",
+    "kind": "설화",
+    "archetype": "상대의 가능성을 믿는 동반 성장",
+    "vector": {
+      "attraction": 72,
+      "security": 83,
+      "conflict": 42,
+      "autonomy": 66,
+      "expression": 80,
+      "growth": 96
+    },
+    "anchor_event": "평강이 온달의 성장을 지원",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "평강이 온달과 혼인하기로 결심한다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "평강이 온달을 도와 무예와 삶의 기반을 갖추게 한다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "온달은 장수가 되지만 전쟁에서 죽는다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "전승/판본 의존",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "c06",
+    "name": "백소정·허선",
+    "region": "중국",
+    "work": "백사전",
+    "kind": "설화",
+    "archetype": "비밀과 신뢰의 시험",
+    "vector": {
+      "attraction": 90,
+      "security": 62,
+      "conflict": 83,
+      "autonomy": 57,
+      "expression": 69,
+      "growth": 77
+    },
+    "anchor_event": "정체가 드러나며 벌어지는 갈등",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "백소정과 허선이 만나 혼인한다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "백소정의 정체가 드러나며 관계가 흔들린다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "법해의 개입으로 이별하고 후대 판본에는 재회의 변형이 있다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "전승/판본 의존",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "c10",
+    "name": "로미오·줄리엣",
+    "region": "서양",
+    "work": "로미오와 줄리엣",
+    "kind": "희곡",
+    "archetype": "빠른 몰입과 외부 갈등",
+    "vector": {
+      "attraction": 99,
+      "security": 50,
+      "conflict": 87,
+      "autonomy": 50,
+      "expression": 92,
+      "growth": 62
+    },
+    "anchor_event": "가문 대립과 비극",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "비극·폭력·불건강한 관계 요소 확인 필요",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "로미오와 줄리엣이 무도회에서 만나 사랑에 빠진다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "가문의 반대를 피해 비밀리에 결혼한다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "오해와 엇갈린 소식이 두 사람의 죽음으로 이어진다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "작품 내 사건",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "c11",
+    "name": "엘리자베스·다아시",
+    "region": "서양",
+    "work": "오만과 편견",
+    "kind": "소설",
+    "archetype": "오해를 넘어 상호 수정",
+    "vector": {
+      "attraction": 80,
+      "security": 79,
+      "conflict": 69,
+      "autonomy": 85,
+      "expression": 72,
+      "growth": 95
+    },
+    "anchor_event": "첫인상과 편견의 변화",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "첫 만남에서 다아시의 태도에 엘리자베스가 반감을 품는다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "청혼과 편지, 위컴 사건을 통해 서로에 대한 판단이 바뀐다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "리디아 사건 이후 다아시의 행동을 알게 되고 두 사람이 결합한다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "작품 내 사건",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "c13",
+    "name": "오디세우스·페넬로페",
+    "region": "그리스",
+    "work": "오디세이아",
+    "kind": "서사시",
+    "archetype": "긴 기다림과 전략적 신뢰",
+    "vector": {
+      "attraction": 70,
+      "security": 94,
+      "conflict": 40,
+      "autonomy": 88,
+      "expression": 55,
+      "growth": 72
+    },
+    "anchor_event": "귀환과 정체 확인",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "오디세우스가 전쟁과 귀향길로 오랫동안 부재한다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "페넬로페가 구혼자들의 압박 속에서 시간을 번다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "오디세우스가 돌아오고 두 사람이 서로를 확인한다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "작품 내 사건",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "c18",
+    "name": "개츠비·데이지",
+    "region": "미국",
+    "work": "위대한 개츠비",
+    "kind": "소설",
+    "archetype": "이상화와 현실의 간극",
+    "vector": {
+      "attraction": 87,
+      "security": 35,
+      "conflict": 77,
+      "autonomy": 60,
+      "expression": 48,
+      "growth": 38
+    },
+    "anchor_event": "과거의 사랑을 재현하려 함",
+    "editorial_status": "초안: 원전/판본별 검증 필요",
+    "content_warning": "",
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "개츠비가 데이지와 과거에 사랑을 나눈다",
+        "dimensions": [
+          "attraction",
+          "expression"
+        ]
+      },
+      {
+        "sequence": 2,
+        "summary": "개츠비가 부를 쌓아 데이지와 재회하려 한다",
+        "dimensions": [
+          "conflict",
+          "autonomy"
+        ]
+      },
+      {
+        "sequence": 3,
+        "summary": "데이지의 선택과 사고 이후 개츠비가 파멸한다",
+        "dimensions": [
+          "security",
+          "growth"
+        ]
+      }
+    ],
+    "source_status": "원전 또는 역사 자료 대조 전: 편집 초안",
+    "safety_note": "서사와 현실 관계를 동일시하지 않도록 주의",
+    "historical_certainty": "작품 내 사건",
+    "relationship_kind": "romance",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "f01",
+    "name": "셜록 홈즈·존 왓슨",
+    "work": "셜록 홈즈 시리즈",
+    "region": "영국",
+    "kind": "고전문학/고사",
+    "relationship_kind": "friendship",
+    "archetype": "추론과 공감의 상호보완",
+    "vector": {
+      "attraction": 38,
+      "security": 80,
+      "conflict": 30,
+      "autonomy": 85,
+      "expression": 55,
+      "growth": 72
+    },
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "홈즈가 사건의 수수께끼를 풀고 왓슨은 동행하며 기록한다",
+        "dimensions": []
+      },
+      {
+        "sequence": 2,
+        "summary": "두 사람은 위험한 사건에서 서로의 판단과 도움을 활용한다",
+        "dimensions": []
+      },
+      {
+        "sequence": 3,
+        "summary": "서로 다른 관점이 협업의 강점이 된다",
+        "dimensions": []
+      }
+    ],
+    "source_status": "원전 대조 전 편집 초안",
+    "safety_note": "작품의 일부 사건은 각 편마다 다름",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "f02",
+    "name": "돈키호테·산초 판사",
+    "work": "돈키호테",
+    "region": "스페인",
+    "kind": "고전문학/고사",
+    "relationship_kind": "friendship",
+    "archetype": "이상주의와 현실주의의 동행",
+    "vector": {
+      "attraction": 32,
+      "security": 60,
+      "conflict": 66,
+      "autonomy": 78,
+      "expression": 82,
+      "growth": 88
+    },
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "돈키호테가 기사도적 모험에 나서고 산초가 동행한다",
+        "dimensions": []
+      },
+      {
+        "sequence": 2,
+        "summary": "산초가 현실적 관점에서 돈키호테의 판단에 반응한다",
+        "dimensions": []
+      },
+      {
+        "sequence": 3,
+        "summary": "여정 속에서 서로의 관점에 영향을 주고받는다",
+        "dimensions": []
+      }
+    ],
+    "source_status": "원전 대조 전 편집 초안",
+    "safety_note": "권력과 신분 차이가 있는 관계",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "f03",
+    "name": "관중·포숙아",
+    "work": "관포지교 고사",
+    "region": "중국",
+    "kind": "고전문학/고사",
+    "relationship_kind": "friendship",
+    "archetype": "상대의 진가를 알아보는 신뢰",
+    "vector": {
+      "attraction": 20,
+      "security": 92,
+      "conflict": 22,
+      "autonomy": 75,
+      "expression": 60,
+      "growth": 86
+    },
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "포숙아가 관중의 사정을 이해하고 감싼다는 고사가 전해진다",
+        "dimensions": []
+      },
+      {
+        "sequence": 2,
+        "summary": "포숙아가 관중의 능력을 인정하고 추천한다",
+        "dimensions": []
+      },
+      {
+        "sequence": 3,
+        "summary": "관포지교는 깊은 이해와 신뢰의 상징이 된다",
+        "dimensions": []
+      }
+    ],
+    "source_status": "원전 대조 전 편집 초안",
+    "safety_note": "고사의 전승과 역사적 사실을 구분할 것",
+    "evidence_grade": "editorial_unverified"
+  },
+  {
+    "id": "f04",
+    "name": "길가메시·엔키두",
+    "work": "길가메시 서사시",
+    "region": "메소포타미아",
+    "kind": "고전문학/고사",
+    "relationship_kind": "friendship",
+    "archetype": "경쟁에서 깊은 우정으로",
+    "vector": {
+      "attraction": 45,
+      "security": 70,
+      "conflict": 82,
+      "autonomy": 68,
+      "expression": 74,
+      "growth": 95
+    },
+    "story_beats": [
+      {
+        "sequence": 1,
+        "summary": "두 인물이 처음에는 맞서 싸운다",
+        "dimensions": []
+      },
+      {
+        "sequence": 2,
+        "summary": "이후 친구가 되어 함께 모험한다",
+        "dimensions": []
+      },
+      {
+        "sequence": 3,
+        "summary": "엔키두의 죽음이 길가메시의 삶에 대한 성찰을 촉발한다",
+        "dimensions": []
+      }
+    ],
+    "source_status": "원전 대조 전 편집 초안",
+    "safety_note": "고대 서사시의 다양한 판본을 고려할 것",
+    "evidence_grade": "editorial_unverified"
+  }
+]

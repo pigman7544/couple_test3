@@ -1,0 +1,14 @@
+[
+{"id":"c01","signature":"약속을 지키는 저항","mechanism":"외부 권력에 맞서 관계의 약속을 유지","distinct_from":"c13: 장기 귀환 전략보다 압력 앞의 선택에 초점","source_status":"원전 판본 대조 필요"},
+{"id":"c02","signature":"주기적 분리와 재회","mechanism":"외부 규칙으로 반복되는 물리적 거리","distinct_from":"c13: 귀환을 향한 장기 전략과 구별","source_status":"설화 판본 대조 필요"},
+{"id":"c03","signature":"성장 촉진형 동반자","mechanism":"한 사람의 가능성을 알아보고 훈련과 변화를 촉진","distinct_from":"f03: 정치적 재능 인정과 후원보다는 공동 생활과 성장","source_status":"삼국사기 관련 기록 대조 필요"},
+{"id":"c06","signature":"정체성의 비밀과 경계","mechanism":"서로 다른 존재 조건과 비밀이 신뢰를 시험","distinct_from":"c10: 가족 간 적대보다 정체성·인간/비인간 경계","source_status":"백사전 판본 대조 필요"},
+{"id":"c10","signature":"충동적 결속과 적대 환경","mechanism":"짧은 시간의 강렬한 선택과 외부 집단 갈등","distinct_from":"c01: 지속적 약속과 인내보다 속도·충동","source_status":"희곡 원문 대조 필요"},
+{"id":"c11","signature":"오해의 교정과 상호 재평가","mechanism":"판단의 오류를 수정하면서 존중을 형성","distinct_from":"f02: 이상과 현실의 병치보다 상호 인식 수정","source_status":"소설 원문 대조 필요"},
+{"id":"c13","signature":"장기 부재와 전략적 신뢰","mechanism":"귀환을 위한 지속과 기다리는 쪽의 능동적 대응","distinct_from":"c02: 정해진 주기적 재회가 아님","source_status":"서사시 원문 대조 필요"},
+{"id":"c18","signature":"이상화와 현실의 불일치","mechanism":"상대를 실제 인물보다 투사된 이상으로 대함","distinct_from":"c10: 상호 결속보다 비대칭적 이상화","source_status":"소설 원문 대조 필요"},
+{"id":"f01","signature":"전문성의 상호보완","mechanism":"추론·관찰과 기록·현실 감각의 협업","distinct_from":"f03: 개인 능력 인정/후원보다 반복적 공동 사건 해결","source_status":"단편 원문 대조 필요"},
+{"id":"f02","signature":"이상과 현실의 협상","mechanism":"서로 다른 세계관을 동행하며 조정","distinct_from":"c11: 연애적 오해 교정이 아닌 지속적 시각 차이","source_status":"소설 원문 대조 필요"},
+{"id":"f03","signature":"재능의 인정과 후원","mechanism":"상대의 능력을 알아보고 장기적으로 신뢰·추천","distinct_from":"f01: 공동 사건 해결보다 인재를 알아보는 안목","source_status":"사기 등 원전 대조 필요"},
+{"id":"f04","signature":"대립에서 우정으로 전환","mechanism":"힘의 충돌 후 깊은 유대와 상실에 따른 변화","distinct_from":"f02: 대조적 세계관보다 경쟁·상실","source_status":"서사시 판본 대조 필요"}
+]
